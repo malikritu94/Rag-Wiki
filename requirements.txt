@@ -1,0 +1,12 @@
+streamlit>=1.36,<2
+protobuf>=3.20,<6
+langchain
+langchain-community
+langchain-ollama
+langchain-chroma
+langchain-text-splitters
+chromadb
+pypdf
+pymupdf
+rank_bm25
+numpy
